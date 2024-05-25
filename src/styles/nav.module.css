@@ -1,0 +1,21 @@
+.navigationBar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  margin-bottom: 40px;
+}
+
+.check {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.heading {
+  color: rgb(231, 136, 13);
+  margin-left: 30px;
+  margin-right: 30px;
+}
